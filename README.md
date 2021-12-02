@@ -1,7 +1,7 @@
 Repositório da aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
 
 
-[![GENESIS GAME](https://github.com/yianzaratin/jogoMemoriaGenius/blob/genesis.jpg "GENESIS GAME")](https://github.com/yianzaratin/yianzaratin.github.io "GENESIS GAME")
+[![GENESIS GAME](https://github.com/yianzaratin/jogoMemoriaGenius/blob/main/genesis.jpg "GENESIS GAME")](https://yianzaratin.github.io "GENESIS GAME")
 
 
 ### Os requisitos são:
